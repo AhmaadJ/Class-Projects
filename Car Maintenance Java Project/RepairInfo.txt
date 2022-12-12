@@ -1,0 +1,18 @@
+User 1
+Description: Oil Change
+Name: Sears Auto
+Address: 100 Main Street New York, NY 10001
+Repair date: 3/2/2016
+Cost: $24.95
+Comments: None
+
+
+User 2
+Description: Brake Replacement
+Name: Midas
+Address: 250 First Street New York, NY 10001
+Repair date: 6/3/2016
+Cost: $280.00
+Parts Replaced : Brakes
+Warranty: 6 Months
+Comments: Mechanic said to fix shocks
