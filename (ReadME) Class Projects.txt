@@ -1,5 +1,8 @@
 Python:
--Quiz5- Program reads 30 grades from a list, & uses 3 functions to calculate the average, standard deviation, & grade range frequency for the grades
+-Grade Reader, Quiz5- Program reads 30 grades from a list, & uses 3 functions to calculate the average, standard deviation, & grade range frequency for the grades
+
+R:
+-Data 101 Assignments 2 & 4
 
 Java:
 -Car Maintenance Project- Asks the user for information about their car repair. The user is given a menu of options to decide what information they want to add
