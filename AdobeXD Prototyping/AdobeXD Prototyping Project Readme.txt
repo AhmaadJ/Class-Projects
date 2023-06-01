@@ -1,0 +1,3 @@
+- Utilized AdobeXD to create mid-fidelity and high-fidelity prototypes of new UI features for a GPS application
+- Drew low-fidelity sketches & wireframes for the features of the application based on user needs
+- Implemented user stories into the design of the prototype, and used agile methodologies to plan out the project
